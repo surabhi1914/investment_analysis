@@ -1,0 +1,10 @@
+# environmental variables
+.env
+
+# Virtual environments
+venv/
+.venv/
+venv
+
+# My notes
+notes.txt
