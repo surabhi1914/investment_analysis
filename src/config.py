@@ -14,3 +14,5 @@ OUTPUT_DATA_DIR = DATA_DIR / "outputs"
 
 DOCS_DIR = PROJECT_ROOT / "docs"
 NOTEBOOKS_DIR = PROJECT_ROOT / "notebooks"
+
+HOUSING_DATA = RAW_DATA_DIR / "housing.csv"
