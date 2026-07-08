@@ -8,3 +8,9 @@ venv
 
 # My notes
 notes.txt
+
+# data
+data/
+
+#models
+models/

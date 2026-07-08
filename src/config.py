@@ -12,7 +12,9 @@ RAW_DATA_DIR = DATA_DIR / "raw"
 PROCESSED_DATA_DIR = DATA_DIR / "processed"
 OUTPUT_DATA_DIR = DATA_DIR / "outputs"
 
+HOUSING_DATA = RAW_DATA_DIR / "housing.csv"
+
 DOCS_DIR = PROJECT_ROOT / "docs"
 NOTEBOOKS_DIR = PROJECT_ROOT / "notebooks"
 
-HOUSING_DATA = RAW_DATA_DIR / "housing.csv"
+MODEL_DIR = PROJECT_ROOT / "models"
